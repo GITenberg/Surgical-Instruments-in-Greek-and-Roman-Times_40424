@@ -10,6 +10,8 @@ creator:
     gutenberg_agent_id: '40616'
     url: http://www.gutenberg.org/2009/agents/40616
 description: Antike / Chirurgie / Instrumente.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/40424#Surgical-Instruments-in-Greek-and-Roman-Times
 gutenberg_issued: '2012-08-06'
 gutenberg_type: Text
 identifiers:
